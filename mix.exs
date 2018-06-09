@@ -4,7 +4,7 @@ defmodule MustacheUtil.Mixfile do
   def project do
     [
       app: :mustache_util,
-      version: "0.0.2",
+      version: "0.1.0",
       deps: deps(),
       description: description(),
       package: package()
